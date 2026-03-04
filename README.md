@@ -53,7 +53,7 @@
 
 ## 📈 GitHub Stats
 
-![Muqaddas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Muqaddas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muqaddas-Iftikhar&show_icons=true&theme=radical)
 
 ---
 
