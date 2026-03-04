@@ -41,7 +41,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muqaddas-Iftikhar&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muqaddas-Iftikhar&show_icons=true&theme=radical)
 
 ---
 
