@@ -38,18 +38,6 @@
 
 ---
 
-## 📂 Projects
-
-### 🚢 Titanic Survival Analysis
-- Data Cleaning
-- EDA
-- Feature Engineering
-- Model Building
-- Accuracy Evaluation
-
-🔗 [View Project Repository](https://github.com/yourusername/titanic-project)
-
----
 
 ## 📈 GitHub Stats
 
